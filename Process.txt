@@ -1,0 +1,9 @@
+// Registering a user in auth System
+1. Get all info  => done
+2. check mandatory data fields  => done
+3. Already register user  => done
+4. Take care of password  =>
+5. generate token or send success message  =>
+
+
+//Login a user
